@@ -23,5 +23,6 @@ public class Palindrome{
        }else{
            System.out.println(num+"is not a Plaindrome"); 
        }
+       sc.close();
     }
 }
