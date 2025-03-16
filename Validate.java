@@ -1,5 +1,6 @@
-/*1. WAP that accepts 2 integers and a target. Validate if the sum of two numbers is equal to given target. */
 package com.naveen.asignments;
+
+/*1. WAP that accepts 2 integers and a target. Validate if the sum of two numbers is equal to given target. */
 
 import java.util.Scanner;
 public class Validate{
