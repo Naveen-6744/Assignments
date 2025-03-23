@@ -1,3 +1,4 @@
+// 1. WAP to group list of strings by Vowel or Consonant
 package com.naveen.asignments;
 
 import java.util.ArrayList;
