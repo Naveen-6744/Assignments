@@ -1,3 +1,4 @@
+//2. WAP to group list of numbers by their Divisibility (2, 5, or neither)
 package com.naveen.asignments;
 
 import java.util.ArrayList;
